@@ -1,0 +1,21 @@
+.nav_bar{
+    text-align: center;
+}
+
+ul.menu_bar{
+    list-style-type: none;
+}
+li.menu{
+    display: inline;
+}
+
+.content{
+    text-align: center;
+    margin-top: 240px;
+}
+ul.content_list{
+    list-style-type: none;
+}
+li.content_menu{
+    display: inline;    
+}

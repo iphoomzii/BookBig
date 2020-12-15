@@ -1,0 +1,95 @@
+.box{
+	
+	width:50%;
+	background-color:none;
+	height: 400px;
+	color:#0c2e8a;
+	padding: 50px;
+	margin: auto;
+}
+.longbox{
+	color:Black;
+	width:50%;
+	height: 700px;
+	border: 15px solid #38967a;
+	Border-radius: 25px;
+	padding: 30px;
+	margin: auto;
+}
+.function{
+	
+	width:100%;
+	background-color:none;
+	height: 500px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+	margin: auto;
+	display:inline-block;
+	
+}
+
+#info{
+	width:40%;
+	Color:White;
+	background-color:#38967a;
+	height: 400px;
+	border: 15px brown;
+	border-radius:20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+	margin-left: 5%;
+	display:inline-block;
+}
+
+#bookdetail
+{
+	width:40%;
+	height: 400px;
+	color:black;
+	border: 15px solid #0c2e8a;
+	border-radius:25px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	margin-left:5%;
+	display:inline-block;
+	position:absolute;
+}
+
+.textcenter{
+	text-align:center;
+}
+
+#login{
+	width:500px;
+	background-color:cyan;
+	height: 300px;
+	border: 15px solid #0c2e8a;
+	padding: 20px;
+	margin: auto;
+	background-color:#0c2e8a;
+	color:white;
+}
+
+#italic{
+	padding-top:0px;
+	font-style:italic;
+}
+
+.boxcenter{
+  position:absolute;
+  top:50%;
+  left:50%;
+  /*margin-top:-50px; 
+  margin-left:-100px;*/
+}
+.greet{
+  font-size: 32px;
+  color: #0c2e8a;
+  text-transform: uppercase;
+  font-weight: 700;
+  position: relative;
+  padding-bottom: 20px;
+}

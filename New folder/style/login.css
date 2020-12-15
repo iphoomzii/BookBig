@@ -1,0 +1,16 @@
+.loginform{
+    text-align: center;
+    margin-top: 240px;
+}
+
+.button{
+    text-align: center;
+}
+ul.button_list{
+    list-style-type: none;
+    display: inline; 
+}
+li{
+    display: inline; 
+       
+}
